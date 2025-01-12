@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.guguhack.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: guguhack_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: popbobik.guguhack.mixin.GuguhackLoader
+

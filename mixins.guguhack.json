@@ -1,0 +1,29 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "popbobik.guguhack.mixin.mixins",
+  "refmap": "mixins.guguhack.refmap.json",
+  "mixins": [
+    "AccessorCPacketUseEntity",
+    "AccessorRenderManager",
+    "MixinEntityPlayer",
+    "MixinEntityRenderer",
+    "MixinEntityPlayerSP",
+    "MixinGuiPlayerTabOverlay",
+    "MixinEntityLivingBase",
+    "MixinGuiScreen",
+    "MixinGuiInGame",
+    "MixinMinecraft",
+    "MixinNetworkManager",
+    "MixinLayerBipedArmor",
+    "MixinPlayerControllerMP",
+    "MixinRenderEnderCrystal",
+    "MixinRenderLivingBase",
+    "MixinGuiNewChat",
+    "MixinRenderItem",
+    "MixinItemRenderer",
+    "MixinRenderPlayer",
+    "accessors.ITimer",
+    "accessors.IEntityRenderer"
+  ]
+}
