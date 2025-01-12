@@ -1,8 +1,8 @@
 [
   {
     "modid": "fonkohook.ie",
-    "name": "Guguhack",
-    "description": "goofy ah shit ass hack pasted from like 8 oyvey skids",
+    "name": "Guguhack continued",
+    "description": "ngl, this shit is goofy, continued by Dreizz",
     "version": "2.12",
     "mcversion": "1.12.2",
     "logoFile": "",
@@ -10,6 +10,7 @@
     "updateUrl": "",
     "authorList": [
       "popbopik"
+      "Dreizz"
     ],
     "screenshots": [],
     "dependencies": []
